@@ -1,1 +1,1 @@
-# SoC-estimation-of-LiFePo4
+# SoC estimation of LiFePo4
